@@ -2,6 +2,7 @@ import React from "react";
 import { RiMenu3line, RiCloseLin } from "react-icons/ri";
 import "./navbar.css";
 
+
 // BEM -> Block Element Modifier
 
 const Navbar = () => {
