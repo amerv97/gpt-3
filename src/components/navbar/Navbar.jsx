@@ -5,6 +5,7 @@ import logo from "../../assets/logo.svg";
 
 // BEM -> Block Element Modifier
 
+
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
   return (
