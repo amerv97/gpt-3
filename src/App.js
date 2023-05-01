@@ -9,11 +9,12 @@ import {
   Header,
 } from "./containers";
 import { CTA, Navbar, Brand } from "./components";
+import './App.css'
 
 export default function App() {
   return (
     <div className="App">
-      <div className="gradients__bg">
+      <div className="gradient__bg">
         <Navbar />
         <Header />
       </div>
